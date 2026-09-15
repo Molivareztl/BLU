@@ -37,7 +37,7 @@ header {
   
 }
 form{text-align: center;color: white;}
-form input[type="text" ], input[type="email" ], select {color: white; font-size: larger;width: 60%; background: #22345b; border-color: white;}
+form input[type="text" ], input[type="email" ], select {color: white; font-size: larger;width: 32%; background: #22345b; border-color: white;}
 form textarea{width: 60%;}
 form button{color: #2f3d61;
 padding: 24px;
@@ -64,17 +64,17 @@ font-size: 24px;
 }
 #nav{font-family: racing;}
 #navbar{width: 100%;height: 15%;margin-bottom: 10px; margin-top: 0;display: block;position: relative;top: 0;}
-#burger{width: 100%;height: 15%;margin-bottom: 10px; transition: all 1s;}
+#burger{width: 100%;height: 32%;margin-bottom: 10px; transition: all 1s;}
 #burger text{
   animation: weee 64s linear infinite;
   transform-origin: center;
 }
-#salir{width: 100%; height: 10%; transition: all 1s;}
+#salir{width: 100%; height: 100%; transition: all 1s;}
 #body-cuestionario{
 grid-template-columns: 256px 1fr 256px;
-grid-template-rows: 128px 1fr 128px;
+grid-template-rows: 128px 1fr 64px;
 }
-#body-cuestionario header{grid-template-columns: 1fr;}
+#body-cuestionario header{display: block;}
 #pantalla{width: 100%;margin-bottom: 10px;}
 #pantalla-mini{width: 100%;}
 #pantalla-mini text{
@@ -110,7 +110,7 @@ header .right{
 main {
   grid-area: main;
 }
-
+h2{font-style: italic;}
 .contenedor-texto{
     display: grid;
   line-height: 32px;
@@ -189,6 +189,7 @@ footer {
   align-items: center;
   padding: 0;
   gap: 10px;
+  width: 720px;
   animation: carrusel 10s infinite linear;
 }
 .carrusel li{
@@ -245,7 +246,6 @@ footer {
     grid-template-rows: 256px 1fr 128px;
   }
   #burger{display: none;}
-  #salir{height: 32%;}
   .contenedor-carrusel{
     width: 512px;
   }

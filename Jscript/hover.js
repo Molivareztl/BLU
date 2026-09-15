@@ -1,18 +1,14 @@
-      const mision = document.getElementById('mision');
-      const vision = document.getElementById('vision');
-      const valores = document.getElementById('valores');
-      const input_mision = document.getElementById('input-mision');
-      const input_vision = document.getElementById('input-vision');
-      const input_valores = document.getElementById('input-valores');
-
-      function detect(info, input){
-        info.addEventListener('mouseenter', () => {
-        input.checked = true;
-        });
-        info.addEventListener('mouseleave', () => {
-        input.checked = false;
-        });
+    const burger = document.getElementById("burger");
+    burger.onclick = function() {hide()};
+    const movil = window.matchMedia("(max-width: 512px)");
+    const texto = burger.getElementById("nav");
+    function hide(){
+      if(texto.style.display == "none"){
+        texto.style.display = "block";
+        burger.style.height = "32%";
+      }else{
+        texto.style.display = "none";
+        burger.style.height = "16%";
       }
-      detect(mision,input_mision);
-      detect(vision,input_vision);
-      detect(valores,input_valores);
+      
+    }

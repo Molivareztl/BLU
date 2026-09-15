@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="salir" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient52">
+   <stop stop-color="#2f3d61" offset="0"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient18" x1="32" x2="32" y1="64" gradientTransform="matrix(.83174 0 0 .83174 5.3843 5.3843)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2f3d61" offset="0"/>
+   <stop stop-color="#fff" offset=".5039"/>
+  </linearGradient>
+  <linearGradient id="linearGradient53" x1="26.591" x2="-26.591" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient52"/>
+  <linearGradient id="linearGradient1" x1="26.591" x2="-26.591" gradientTransform="scale(.83174)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient52"/>
+ </defs>
+ <circle cx="32" cy="32" r="26.616" fill="url(#linearGradient18)" stroke-width="1.6635"/>
+ <g fill="none">
+  <path d="m0 32c-6.517e-5 17.673 14.327 32 32 32"/>
+  <path d="m32 64c17.673 6.5e-5 32-14.327 32-32"/>
+  <path d="m64 32c6.5e-5 -17.673-14.327-32-32-32"/>
+  <path d="m32 0c-17.673-6.517e-5 -32 14.327-32 32"/>
+  <g transform="matrix(1.2034,0,0,1.2034,32,32)">
+   <g transform="scale(.83174)" stroke="url(#linearGradient53)" stroke-width=".26458">
+    <path transform="rotate(7.6307)" d="m0 26.458a5.9315 26.458 0 0 1-5.1368-13.229 5.9315 26.458 0 0 1 0-26.458 5.9315 26.458 0 0 1 5.1368-13.229"/>
+    <path transform="rotate(61.813)" d="m0 26.458a22.134 26.458 0 0 1-19.168-13.229 22.134 26.458 0 0 1 0-26.458 22.134 26.458 0 0 1 19.168-13.229"/>
+    <path transform="rotate(-26.565)" d="M 0,-26.458 A 16.203,26.458 0 0 1 16.203,0 16.203,26.458 0 0 1 0,26.458"/>
+   </g>
+   <g transform="scale(.83174)" stroke="url(#linearGradient53)" stroke-width=".26458">
+    <path d="m9.4409 24.717a15.552 7.7769 0 0 1-18.882-1e-6"/>
+    <path d="m24.717 9.4411a25.163 12.583 0 0 1-24.717 10.222 25.163 12.583 0 0 1-24.717-10.222"/>
+    <path d="m24.717-9.4411a25.163 12.583 0 0 1-10.79 12.84 25.163 12.583 0 0 1-27.853-3e-7 25.163 12.583 0 0 1-10.79-12.84"/>
+    <path d="m9.4409-24.717a15.552 7.7769 0 0 1 5.2909 8.6719 15.552 7.7769 0 0 1-14.732 5.285 15.552 7.7769 0 0 1-14.732-5.285 15.552 7.7769 0 0 1 5.2909-8.6719"/>
+   </g>
+   <circle cx="5.3335e-7" cy="5.3335e-7" r="22.006" stroke="url(#linearGradient1)" stroke-width=".22006"/>
+  </g>
+ </g>
+ <text transform="scale(.96221 1.0393)" x="12.571987" y="36.242611" fill="#2f3d61" fill-opacity=".59186" font-family="'Noto Sans Cham'" font-size="15.271px" stroke-width="1.3528" style="line-height:0" xml:space="preserve"><tspan x="12.571987" y="36.242611" stroke-width="1.3528">SALIR</tspan></text>
+</svg>
