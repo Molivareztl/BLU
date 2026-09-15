@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="32mm" height="32mm" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <rect width="32" height="32" fill="#4b658a"/>
+ </g>
+ <g fill="none" stroke="#22345b">
+  <path d="m32 24h-32" style="paint-order:stroke markers fill"/>
+  <path d="m32 16h-32" style="paint-order:stroke markers fill"/>
+  <path d="m32 8h-32" style="paint-order:stroke markers fill"/>
+  <path d="m16.773 8-0.77256 0.90485v6.3019l1.1586 0.79323" style="paint-order:stroke markers fill"/>
+  <path d="m24.773 16-0.77256 0.90434v6.3025l1.1586 0.79323" style="paint-order:stroke markers fill"/>
+  <path d="m16.773 24-0.77256 0.90434v6.3025l1.1584 0.79312" style="paint-order:stroke markers fill"/>
+  <path d="m24.773 0-0.77256 0.90485v6.3019l1.1586 0.79323" style="paint-order:stroke markers fill"/>
+  <path d="m1.2726 8-0.77256 0.90486v6.3019l1.1586 0.79323" style="paint-order:stroke markers fill"/>
+  <path d="m9.2726 16-0.77256 0.90434v6.3025l1.1586 0.79323" style="paint-order:stroke markers fill"/>
+  <path d="m1.2726 24-0.77256 0.90434v6.3025l1.1584 0.79312" style="paint-order:stroke markers fill"/>
+  <path d="m9.2726-1.2257e-8 -0.77256 0.90485v6.3019l1.1586 0.79323" style="paint-order:stroke markers fill"/>
+  <path d="m5.772e-5 0.5h32" style="paint-order:normal"/>
+ </g>
+</svg>
